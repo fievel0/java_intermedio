@@ -15,6 +15,6 @@ public class Rectangulo {
     
     public void impArea(){
         calArea();
-        System.out.println("El area del triángulo es: " + area);
+        System.out.println("El area del rectángulo es: " + area);
     } 
 }
